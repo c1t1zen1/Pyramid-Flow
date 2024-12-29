@@ -353,4 +353,4 @@ Pyramid Flow is a training-efficient **Autoregressive Video Generation** model b
     )
 
 # Launch Gradio app
-demo.launch(share=False)
+demo.launch(share=True)
